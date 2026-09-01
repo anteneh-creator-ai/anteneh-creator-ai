@@ -1,0 +1,1 @@
+Anteneh Creator AI assets directory. Core media processing is browser-first.
